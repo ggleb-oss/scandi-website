@@ -1,2 +1,1 @@
 # scandi-website
-scandi-website
